@@ -42,7 +42,7 @@ Go to http://localhost:3000
 Login using:
 
 username:   admin
-password:   password
+password:   pass
 
 --------------
 ## CONFIGURE
